@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: io.gatling.app.Gatling
+Class-Path: scala-library.jar scala-swing_2.12-2.0.3.jar scala-reflect.j
+ ar scala-parser-combinators_2.12-1.0.7.jar scala-xml_2.12-1.0.6.jar
+
