@@ -4,6 +4,8 @@
 
 Gatling is a load test tool.
 It officially supports HTTP, WebSocket, Server-Sent-Events and JMS.
+二次开发增加功能：
+1. 自动熔断功能。如果压力指标达到设定阈值就停止发压
 
 ## 底层技术
 
