@@ -51,4 +51,9 @@ Found a real bug? Raise an [issue](https://github.com/gatling/gatling/issues).
     ![img_5.png](img_5.png)
 4. debug || run
    ![img_4.png](img_4.png)
+5.	以上步骤配置完成后构建项目
+6.	将GatlingFiles类中GalingHome修改为 可执行文件的绝对路径（/xx/xx/.ivy2/local/io.gatling.highcharts/gatling-charts-highcharts-bundle/3.5.1/zips/gatling-charts-highcharts-bundle-3.5.1）
+7.	在源码编译目录下执行sh bin/gatling.sh(生成.class文件)
+8.	出现如下图显示代表启动成功
+    ![img_3.png](img_3.png)
 
